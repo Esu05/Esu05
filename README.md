@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Esu05
+- 👋 Hi, I’m Aditi
 - 👀 I’m interested in hackathons and web development.
 - 🌱 I’m currently pursuing Computer Science and Engineering.
 - 💞️ I’m looking to collaborate on projects and hackathons.
