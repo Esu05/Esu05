@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects and hackathons.
 - 📫 How to reach me --> @aditigecp@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Loves to read, explore and travel, sketch and paint.
+- ⚡ Fun fact: Loves to read, explore, travel, sketch and paint.
 
 <!---
 Esu05/Esu05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
