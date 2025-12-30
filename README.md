@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Aditi
-- 👀 I’m interested in hackathons and web development.
-- 🌱 I’m currently pursuing Computer Science and Engineering.
-- 💞️ I’m looking to collaborate on projects and hackathons.
+- ⛵ I was once like a ship drifting in the vast sea without any direction.
+- ⛩️ Found my passion in coding and developing things.
+- 🍀 Constantly learning and growing.
+- 🪼 Diving in exciting world of Machine Learning, Deep Learning and Artificial Intelligence. 
 - 📫 How to reach me --> @aditigecp@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Loves to read, explore, travel, sketch and paint.
