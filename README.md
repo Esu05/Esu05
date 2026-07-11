@@ -25,12 +25,18 @@ I'm a B.Tech CSE student who builds full-stack apps and an AI/ML Enthusiast, try
 
 ---
 
-### 🗾 Featured Projects
+### 📮 Reach Me
 
-| | |
-|---|---|
-| **🧠 NeuroStage DSS**<br/>Alzheimer's staging app — Dual-CNN + soft-voting ensemble (~99% accuracy)<br/>`FastAPI` `React` `Python` | **📚 StudyLens**<br/>AI study planner — flashcards, MCQs, spaced repetition<br/>`Next.js 15` `TypeScript` `Supabase` `Groq` |
-| **📈 GrowTrack**<br/>Daily tracker — todo, expense, hydration, mood + streaks<br/>`React` `Supabase` `Chart.js` | 
+<div align="center">
+
+<a href="mailto:aditigecp@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D97CA8?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="http://www.linkedin.com/in/aditi-kumari-ab6b37257">
+  <img src="https://img.shields.io/badge/-LinkedIn-b5678d?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
@@ -38,7 +44,7 @@ I'm a B.Tech CSE student who builds full-stack apps and an AI/ML Enthusiast, try
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,python,fastapi,supabase,tailwind,mongodb,git,github,figma,vscode,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,python,fastapi,supabase,tailwind,mongodb,git,github,figma,vscode,sql" />
 
 </div>
 
@@ -48,32 +54,16 @@ I'm a B.Tech CSE student who builds full-stack apps and an AI/ML Enthusiast, try
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Esu05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=f5c2e7&icon_color=f5c2e7&text_color=e0e0e0" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Esu05&show_icons=true&theme=rose_pine_dawn&hide_border=true&bg_color=ffe0ec&title_color=b5678d&icon_color=b5678d&text_color=6d4c5c" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Esu05&theme=tokyonight&hide_border=true&background=1a1a2e&ring=f5c2e7&fire=f5c2e7&currStreakLabel=f5c2e7" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Esu05&theme=default&hide_border=true&background=ffe0ec&ring=b5678d&fire=b5678d&currStreakLabel=b5678d" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Esu05&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=f5c2e7&text_color=e0e0e0" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esu05&layout=compact&theme=rose_pine_dawn&hide_border=true&bg_color=ffe0ec&title_color=b5678d&text_color=6d4c5c" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=Esu05&show_icons=true&hide_border=true&bg_color=ffe0ec&title_color=b5678d&icon_color=b5678d&text_color=6d4c5c&cache_seconds=86400" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Esu05&theme=default&hide_border=true&background=ffe0ec&ring=b5678d&fire=b5678d&currStreakLabel=b5678d" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esu05&layout=compact&hide_border=true&bg_color=ffe0ec&title_color=b5678d&text_color=6d4c5c&cache_seconds=86400" />
 
 </div>
 
 ---
 
 <div align="center">
+<img src="./assets/footer-torii.svg" alt="torii footer" width="100%" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc2d1,100:ffe0ec&height=100&section=footer" />
-</picture>
-
-*thanks for stopping by 🌸*
-
+*Thanks for stopping by 🌸*
 </div>
