@@ -1,94 +1,78 @@
-# 💫 About Me
+<div align="center">
 
-<table align="right">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esu05&theme=tokyonight&layout=compact&hide_border=true" width="300px" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<!-- ===== DUAL-THEME BANNER (sakura light / torii-moon dark) ===== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Aditi%20Kumari&fontSize=42&fontColor=f5c2e7&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20B.Tech%20CSE&descAlignY=58&descSize=18" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffe0ec,100:ffc2d1&height=220&section=header&text=Aditi%20Kumari&fontSize=42&fontColor=6d4c5c&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20B.Tech%20CSE&descAlignY=58&descSize=18" />
+  <img alt="banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffe0ec,100:ffc2d1&height=220&section=header&text=Aditi%20Kumari&fontSize=42&fontColor=6d4c5c" />
+</picture>
 
-👋 **Hi, I'm Aditi!**
+<!-- ===== TYPING INTRO ===== -->
+<a href="https://portfolio-v1-nine-beta.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F7A8C4&center=true&vCenter=true&width=500&lines=Welcome+to+my+corner+of+the+web+%F0%9F%8C%B8;INFJ+%E2%80%A2+Naruto+fan+%E2%80%A2+Anime-inspired+dev;Building+full-stack+%2B+ML+projects+%E2%9C%A8" alt="Typing SVG" />
+</a>
 
-*   ⛵ **My Journey:** I was once like a ship drifting in the vast sea without any direction—until I found my passion in building things with code.
-*   🪼 **Current Focus:** Constantly learning and diving deep into the exciting worlds of **Full-Stack Frontend Architecture**, **Machine Learning**, and **Artificial Intelligence**.
-*   🎨 **Creative Side:** When I'm not coding, you can find me reading, exploring new places, sketching, or painting.
-
----
-
-### 🌐 Let's Connect
-
-<p align="left">
-  <a href="mailto:aditigecp@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://discord.gg/isu0922">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
+</div>
 
 ---
 
-# 💻 Tech Stack
+### 🌸 About Me
 
-### 🎨 Frontend & Design (My Comfort Zone)
-<p align="left">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next_JS-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-</p>
+- 🎓 B.Tech CSE @ Government Engineering College, Palamu (2026)
+- 💻 Full Stack Developer — React, Next.js, TypeScript, Node.js, FastAPI
+- 🧠 Interested in ML/AI-powered applications
+- 🎨 Design sensibility: Japanese & anime-inspired UI/UX
+- 🌱 Currently contributing to open source — [`kana-dojo`](https://github.com/lingdojo/kana-dojo)
+- 📫 Portfolio: [portfolio-v1-nine-beta.vercel.app](https://portfolio-v1-nine-beta.vercel.app/)
 
-### ⚙️ Backend, Databases & Dev Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+### ⛩️ GitHub Stats
 
-### 🤖 AI, Machine Learning & Data Science
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-</p>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Esu05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=f5c2e7&icon_color=f5c2e7&text_color=e0e0e0" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Esu05&show_icons=true&theme=rose_pine_dawn&hide_border=true&bg_color=ffe0ec&title_color=b5678d&icon_color=b5678d&text_color=6d4c5c" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Esu05&theme=tokyonight&hide_border=true&background=1a1a2e&ring=f5c2e7&fire=f5c2e7&currStreakLabel=f5c2e7" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Esu05&theme=default&hide_border=true&background=ffe0ec&ring=b5678d&fire=b5678d&currStreakLabel=b5678d" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Esu05&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=f5c2e7&text_color=e0e0e0" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esu05&layout=compact&theme=rose_pine_dawn&hide_border=true&bg_color=ffe0ec&title_color=b5678d&text_color=6d4c5c" />
+</picture>
+
+</div>
 
 ---
 
-# 📊 GitHub Metrics
+### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Esu05&theme=tokyonight&hide_border=true&include_all_commits=true" height="180px" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Esu05&theme=tokyonight&hide_border=true" height="180px" alt="GitHub Streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Esu05&theme=tokyonight&no-frame=true&margin-w=4&row=1" alt="Trophies" />
-</p>
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
 
 ---
 
-### 🔝 Top Contributed Repositories
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Esu05&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" />
+  <img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc2d1,100:ffe0ec&height=100&section=footer" />
+</picture>
 
-<p align="right">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Esu05&icon=0&color=6" alt="Visitor Count" />
-  </a>
-</p>
+*"Believe it!" 🍥*
+
+</div>
