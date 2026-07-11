@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://portfolio-v1-nine-beta.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&color=D97CA8&center=true&vCenter=true&width=560&lines=Konnichiwa%2C+I'm+Aditi+%F0%9F%8C%B8;Full+Stack+Developer+%E2%80%A2+AI%2FML+Enthusiast;INFJ+%E2%80%A2+Naruto+fan+%E2%80%A2+quiet+by+nature%2C+loud+in+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1200&color=D97CA8&center=true&vCenter=true&width=560&lines=Konnichiwa%2C+I'm+Aditi+%F0%9F%8C%B8;Full+Stack+Developer+%E2%80%A2+AI%2FML+Enthusiast;" alt="Typing SVG" />
 </a>
 
 </div>
