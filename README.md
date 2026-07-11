@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/github profile final.png" alt="banner" width="100%" />
+<img src="./assets/github profile final.png" alt="banner" width="80%" />
 
 <br/>
 
@@ -63,7 +63,7 @@ I'm a B.Tech CSE student who builds full-stack apps and an AI/ML Enthusiast, try
 ---
 
 <div align="center">
-<img src="./assets/footer.jpg" alt="torii footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc2d1,100:f6a8c4&height=120&section=footer" alt="footer wave" width="100%" />
 
 *Thanks for stopping by 🌸*
 </div>
