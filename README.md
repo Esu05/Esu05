@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="banner" width="100%" />
+<img src="./assets/github profile final.png" alt="banner" width="100%" />
 
 <br/>
 
@@ -14,15 +14,13 @@
 
 ### 🌸 About Me
 
-I'm a B.Tech CSE student who builds full-stack apps and machine learning systems, with a soft spot for Japanese aesthetics and anime — you'll notice it in my colour palettes more than in what I say about it.
+I'm a B.Tech CSE student who builds full-stack apps and an AI/ML Enthusiast, trying my best to build scalable and user experience driven solutions.
 
-- 🎓 B.Tech CSE, Government Engineering College, Palamu — Class of 2026
-- 💻 Full-stack development — React, Next.js, TypeScript, Node.js, FastAPI
-- 🧠 AI/ML — CNNs, ensemble models, LLM-powered apps (Groq/LLaMA)
-- 🎨 Design language: Japanese minimalism, sakura pinks, torii-gate silhouettes
-- 📖 INFJ — I think in systems and prefer building quietly over talking loudly about it
-- 🍥 Naruto fan — "Believe it"
-- 🌱 Currently contributing to [`kana-dojo`](https://github.com/lingdojo/kana-dojo), an open-source Japanese learning app
+- 🎓 B.Tech CSE
+- 💻 Full-stack developer
+- 🧠 AI/ML
+- 🎨 Constantly learning and growing.
+- 🌱 Open-source Contribution
 - 📫 Portfolio: [portfolio-v1-nine-beta.vercel.app](https://portfolio-v1-nine-beta.vercel.app/)
 
 ---
@@ -32,7 +30,7 @@ I'm a B.Tech CSE student who builds full-stack apps and machine learning systems
 | | |
 |---|---|
 | **🧠 NeuroStage DSS**<br/>Alzheimer's staging app — Dual-CNN + soft-voting ensemble (~99% accuracy)<br/>`FastAPI` `React` `Python` | **📚 StudyLens**<br/>AI study planner — flashcards, MCQs, spaced repetition<br/>`Next.js 15` `TypeScript` `Supabase` `Groq` |
-| **📈 GrowTrack**<br/>Daily tracker — todo, expense, hydration, mood + streaks<br/>`React` `Supabase` `Chart.js` | **🎟️ SortMyScene**<br/>Event ticket booking with atomic transaction handling<br/>`Node.js` `Express` `MongoDB` |
+| **📈 GrowTrack**<br/>Daily tracker — todo, expense, hydration, mood + streaks<br/>`React` `Supabase` `Chart.js` | 
 
 ---
 
