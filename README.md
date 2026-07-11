@@ -54,16 +54,16 @@ I'm a B.Tech CSE student who builds full-stack apps and an AI/ML Enthusiast, try
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Esu05&show_icons=true&hide_border=true&bg_color=ffe0ec&title_color=b5678d&icon_color=b5678d&text_color=6d4c5c&cache_seconds=86400" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Esu05&theme=default&hide_border=true&background=ffe0ec&ring=b5678d&fire=b5678d&currStreakLabel=b5678d" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esu05&layout=compact&hide_border=true&bg_color=ffe0ec&title_color=b5678d&text_color=6d4c5c&cache_seconds=86400" />
+
+<img src="https://streak-stats.demolab.com/?user=Esu05&background=ffe0ec&border=f6c9d6&stroke=d97ca8&ring=d97ca8&fire=e88ca0&currStreakNum=6d4c5c&sideNums=6d4c5c&currStreakLabel=b5678d&sideLabels=b5678d&dates=a97b8d&hide_border=false" />
+
 
 </div>
 
 ---
 
 <div align="center">
-<img src="./assets/footer-torii.svg" alt="torii footer" width="100%" />
+<img src="./assets/footer.jpg" alt="torii footer" width="100%" />
 
 *Thanks for stopping by 🌸*
 </div>
